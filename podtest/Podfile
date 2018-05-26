@@ -1,0 +1,9 @@
+platform :ios, '10.3'
+
+target 'podtest' do
+   use_frameworks!
+
+  # Pods for podtest
+  pod 'SVProgressHUD'
+  pod 'SwiftyJSON'
+end
