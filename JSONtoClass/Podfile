@@ -1,0 +1,9 @@
+platform :ios, '10.3'
+
+target 'JSONtoClass' do
+   use_frameworks!
+
+  # Pods for JSONtoClass
+  #pod 'SVProgressHUD'
+  pod 'SwiftyJSON'
+end
